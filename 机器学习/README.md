@@ -2,6 +2,9 @@
 
 ![图片](../img/1564392752105.jpg)
 
+
+[谷歌今日上线基于TensorFlow的机器学习速成课程（免费中文版）](https://developers.google.cn/machine-learning/crash-course/ml-intro)
+
 [AiLearning  学习资料](https://github.com/apachecn/AiLearning)
 
 ## 一. 机器学习概述
